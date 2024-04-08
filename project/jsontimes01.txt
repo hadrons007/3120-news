@@ -1,0 +1,254 @@
+[
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "How Gaza Protesters Are Challenging Democratic Leaders",
+        "abstract": "From President Biden to the mayors of small cities, Democrats have been trailed by demonstrators who are complicating the party\u2019s ability to campaign in an election year.",
+        "url": "https://www.nytimes.com/2024/04/07/us/politics/democrats-israel-gaza-protesters.html",
+        "uri": "nyt://article/b4d4cc1a-4c23-578c-9e3f-9ebdc1c7d4a5",
+        "byline": "By Lisa Lerer, Reid J. Epstein and Katie Glueck",
+        "item_type": "Article",
+        "updated_date": "2024-04-07T11:32:43-04:00",
+        "created_date": "2024-04-07T03:02:22-04:00",
+        "published_date": "2024-04-07T03:02:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Demonstrations, Protests and Riots",
+            "Palestinians",
+            "United States International Relations",
+            "United States Politics and Government",
+            "Presidential Election of 2024"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/04/07/multimedia/07pol-dems-gaza-01-phfb/07pol-dems-gaza-01-phfb-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hundreds of pro-Palestinian demonstrators gathered outside President Biden\u2019s high-dollar fund-raiser at Radio City Music Hall last month, and several made their way inside, repeatedly disrupting the event.",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/07/multimedia/07pol-dems-gaza-01-phfb/07pol-dems-gaza-01-phfb-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hundreds of pro-Palestinian demonstrators gathered outside President Biden\u2019s high-dollar fund-raiser at Radio City Music Hall last month, and several made their way inside, repeatedly disrupting the event.",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/07/multimedia/07pol-dems-gaza-01-phfb/07pol-dems-gaza-01-phfb-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hundreds of pro-Palestinian demonstrators gathered outside President Biden\u2019s high-dollar fund-raiser at Radio City Music Hall last month, and several made their way inside, repeatedly disrupting the event.",
+                "copyright": "Andres Kudacki for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump, at Fund-Raiser, Says He Wants Immigrants From \u2018Nice\u2019 Countries",
+        "abstract": "At rallies, Donald Trump frequently laments migrants from a list of countries from Africa, Asia and the Middle East as he stokes fears around the surge at the border.",
+        "url": "https://www.nytimes.com/2024/04/07/us/politics/trump-immigrants-nice-countries.html",
+        "uri": "nyt://article/d321904f-3e90-5728-8f06-39856aa1a833",
+        "byline": "By Maggie Haberman and Michael Gold",
+        "item_type": "Article",
+        "updated_date": "2024-04-07T19:23:34-04:00",
+        "created_date": "2024-04-07T18:26:05-04:00",
+        "published_date": "2024-04-07T18:26:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2024",
+            "Illegal Immigration",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Palm Beach (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/04/06/multimedia/07-trump-fundraiser/07-trump-fundraiser-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former President Donald J. Trump and his wife, Melania, in Palm Beach, Fla., on Saturday.",
+                "copyright": "Lynne Sladky/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/06/multimedia/07-trump-fundraiser/07-trump-fundraiser-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former President Donald J. Trump and his wife, Melania, in Palm Beach, Fla., on Saturday.",
+                "copyright": "Lynne Sladky/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/06/multimedia/07-trump-fundraiser/07-trump-fundraiser-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former President Donald J. Trump and his wife, Melania, in Palm Beach, Fla., on Saturday.",
+                "copyright": "Lynne Sladky/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "In Milwaukee, Restaurants and Venues Worry of Seeing Limited R.N.C. Boost",
+        "abstract": "In Chicago, venues are booking fast for the Democratic convention in August. But Milwaukee, host of the Republican convention, is wondering if customers will come.",
+        "url": "https://www.nytimes.com/2024/04/07/us/politics/republican-convention.html",
+        "uri": "nyt://article/c9299219-d98d-5d2f-9e44-3a4136a1da5a",
+        "byline": "By Jonathan Weisman",
+        "item_type": "Article",
+        "updated_date": "2024-04-07T12:46:43-04:00",
+        "created_date": "2024-04-07T05:02:55-04:00",
+        "published_date": "2024-04-07T05:02:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Presidential Election of 2024",
+            "United States Politics and Government",
+            "Democratic National Convention",
+            "Republican National Convention"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Republican National Committee"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Chicago (Ill)",
+            "Milwaukee (Wis)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/04/06/multimedia/00pol-republican-convention-topart-jhkm/00pol-republican-convention-topart-jhkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Adam Siegel, the co-owner and executive chef of Lupi & Iris, and other restaurateurs have seen a sluggish pace of bookings for the week of the Republican National Convention in Milwaukee in July.",
+                "copyright": "Kevin Miyazaki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/06/multimedia/00pol-republican-convention-topart-jhkm/00pol-republican-convention-topart-jhkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Adam Siegel, the co-owner and executive chef of Lupi & Iris, and other restaurateurs have seen a sluggish pace of bookings for the week of the Republican National Convention in Milwaukee in July.",
+                "copyright": "Kevin Miyazaki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/06/multimedia/00pol-republican-convention-topart-jhkm/00pol-republican-convention-topart-jhkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Adam Siegel, the co-owner and executive chef of Lupi & Iris, and other restaurateurs have seen a sluggish pace of bookings for the week of the Republican National Convention in Milwaukee in July.",
+                "copyright": "Kevin Miyazaki for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Donald Trump\u2019s Insatiable Bloodlust",
+        "abstract": "Marjorie and Donald, trumpeting the end times.",
+        "url": "https://www.nytimes.com/2024/04/06/opinion/trump-election-blood-bath.html",
+        "uri": "nyt://article/9f8d083b-eeda-5c53-a9de-9060c3532a23",
+        "byline": "By Maureen Dowd",
+        "item_type": "Article",
+        "updated_date": "2024-04-07T14:45:34-04:00",
+        "created_date": "2024-04-06T07:00:38-04:00",
+        "published_date": "2024-04-06T07:00:38-04:00",
+        "material_type_facet": "",
+        "kicker": "Maureen Dowd",
+        "des_facet": [
+            "Presidential Election of 2024",
+            "United States Politics and Government",
+            "Macbeth (Play)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Shakespeare, William"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/04/08/multimedia/06dowd-klzq/06dowd-klzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Peterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/08/multimedia/06dowd-klzq/06dowd-klzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Peterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/08/multimedia/06dowd-klzq/06dowd-klzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Peterson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    }
+]
